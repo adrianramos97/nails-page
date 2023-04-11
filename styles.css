@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+}
+  
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.collage {
+  height: 40%;
+  width: 100%;
+}
+  
