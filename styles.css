@@ -85,7 +85,7 @@ span {
   height: 160px;
   border-radius: 100px;
   margin-left: 1rem;
-  object-fit: cover;
+  
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 .cont-profile {
