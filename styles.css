@@ -26,6 +26,7 @@ body {
   height: 70px;
   left: 6px;
   top: 5px;
+  object-fit: cover;
 }
 
 .book-btn {
@@ -85,7 +86,7 @@ span {
   height: 160px;
   border-radius: 100px;
   margin-left: 1rem;
-  
+  object-fit: cover;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 .cont-profile {
